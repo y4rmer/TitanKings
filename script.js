@@ -24,15 +24,3 @@ As King Class we are the leading socialites in real time.
 Anyone on the web can find us here.
 `;
 Type(text)
-function home(){
-    window.location.href="index.html";
-}
-function magazine(){
-    window.location.href="magazine.html";
-}
-function social(){
-    window.location.href="social.html";
-}
-function about(){
-    window.location.href="about.html";
-}
